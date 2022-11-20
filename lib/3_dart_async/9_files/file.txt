@@ -1,0 +1,15 @@
+10    ROBERTO         A1    LINS
+20    ZE MINEIRO      A2    BAURU
+30    JULIANO         A3    CAMPINAS
+40    JOACIR          A4    RIO PRETO
+50    BORN            A5    SAO PAULO 
+60    CARLOS          A6    MARILIA
+70    JOAO            A7    BAHIA
+80    MIGUEL          A8    CURITIBA
+90    HENRIQUE        A9    FLORIANOPOLIS
+100   CLAUDEMIR       A10   COTIA
+120   GIOVANI         A11   JUDIAI
+130   ZE ROBERTO      A12   BAURUERI
+140   MARCIANO        A13   OSASCO
+150   ROBERTO         A14   CAFELANDIA
+160   LUCAS           A15   GUARANTAN
